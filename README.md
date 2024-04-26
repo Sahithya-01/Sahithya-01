@@ -23,8 +23,18 @@ I'm a passionate and dedicated Computer Science graduate student at Georgia Stat
 
 ### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Sahithya-01"><img src="https://github-readme-stats.vercel.app/api?username=Sahithya-01&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sahithya-01's GitHub stats" /></a>
+
+<a href="http://www.github.com/Sahithya-01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahithya-01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <a href="https://github.com/Sahithya-01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahithya-01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Sahithya-01/MERN-PROJECT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahithya-01&repo=MERN-PROJECT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Sahithya-01/mern-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahithya-01&repo=mern-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Sahithya-01/react-projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahithya-01&repo=react-projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Sahithya-01/advanced-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahithya-01&repo=advanced-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
