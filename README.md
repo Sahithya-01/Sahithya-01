@@ -5,7 +5,7 @@ Front-end Developer
 -------------------
 
 * ✉️  You can contact me at [sahithyahanumandla95@gmail.com](mailto:sahithyahanumandla95@gmail.com)
-* 🧠  I'm learning React JS
+* 🧠  I'm learning NextJS currently.
 
 ### Skills
 
