@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I'm a passionate Computer Science graduate student at Georgia State University in Atlanta, with a strong academic background including a Bachelor's degree from B.V. Raju Institute of Technology in India. As a Graduate Teaching Assistant, I've contributed to course instruction and website enhancement for the Criminal Justice and Criminology Department. Previously, I worked as a Systems Engineer at Tata Consultancy Services, where I developed Angular UI components and implemented GIT with Azure DevOps. My project involvement includes a Crime Reporting Chatbot and a Mobile Water Usage Monitor app. Proficient in languages like C++, Python, and Java, I hold certifications in MERN stack, Angular, iOS 16, and more. I'm eager to apply my skills to impactful technology projects.
-
 * ✉️  You can contact me at [sahithyahanumandla95@gmail.com](mailto:sahithyahanumandla95@gmail.com)
 * 🧠  I'm learning React JS
 
@@ -21,20 +19,4 @@ I'm a passionate Computer Science graduate student at Georgia State University i
 
 <p align="left"> <a href="https://www.github.com/Sahithya-01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sahithya-hanumandla/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Sahithya-01"><img src="https://github-readme-stats.vercel.app/api?username=Sahithya-01&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sahithya-01's GitHub stats" /></a>
-
-<a href="http://www.github.com/Sahithya-01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahithya-01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Sahithya-01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahithya-01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Sahithya-01/mern-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahithya-01&repo=mern-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Sahithya-01/react-projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahithya-01&repo=react-projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Sahithya-01/advanced-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sahithya-01&repo=advanced-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
