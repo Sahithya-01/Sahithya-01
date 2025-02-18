@@ -4,6 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer at CommonThread AI
 -------------------
 
+Masters in Computer Science @ Georgia State University
+-------------------
+
 * ✉️  You can contact me at [sahithyahanumandla95@gmail.com](mailto:sahithyahanumandla95@gmail.com)
 * 🧠  I'm learning NextJS currently.
 
